@@ -1,0 +1,170 @@
+---
+title: "Ma. del Rosario Machuca"
+author: Ma. del Rosario Machuca
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: ['style.css', 'resume']
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r Chunk options, echo=FALSE}
+knitr::opts_chunk$set(warning = F, message = F, echo = FALSE, results = 'asis')
+```
+
+
+Aside
+================================================================================
+
+```{r Logo}
+knitr::include_graphics(here::here('figs', 'Rplot02.jpeg'))
+
+```
+
+Contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> rosario.machuca21@gmail.com
+- <i class="fa fa-twitter"></i> @machuca_rosario
+- <i class="fa fa-phone"></i> (+52) 55 8307 4989
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+**IT:** 
+
+- <i class="fa fa-laptop-code"></i> Microsoft Office
+- <i class="fa fa-laptop-code"></i> R (Shiny, MarkDown) 
+- <i class="fa fa-laptop-code"></i> SQL
+- <i class="fa fa-laptop-code"></i> LaTex
+
+**Idiomas:** 
+
+- - <i class="fa fa-globe-americas"></i> Español
+- - <i class="fa fa-globe-americas"></i> Inglés
+
+
+Áreas de interés {#interests}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-wave-square"></i> Administración de portafolios
+
+<i class="fa fa-wave-square"></i> Análisis financiero
+
+<i class="fa fa-wave-square"></i> Valuación de derivados
+
+<i class="fa fa-wave-square"></i> Finanzas desde el punto de vista del data science
+
+
+Main
+================================================================================
+
+Ma. del Rosario Machuca Gutiérrez {#title}
+--------------------------------------------------------------------------------
+
+Educación {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### (UAM-I) Universidad Autónoma Metropolitana-Iztapalapa
+
+Maestría en Ciencias Matemáticas (Aplicadas e Industriales)
+
+Mexico City, México
+
+2017 - 2019
+
+
+### (UAM-I) Uiversidad Autónoma Metropolitana-Iztapalapa
+
+Licenciatura en Matemáticas
+
+Mexico City, México
+
+2010-2015
+
+
+Experiencia laboral {data-icon=briefcase} 
+--------------------------------------------------------------------------------
+
+### Model Validation Consultant
+
+*Risk Management Direction*
+
+Scotiabank
+
+04-2020 - Present
+
+Ana Laura Minor Castillo, M. en C.
+
+**Actividades**:
+
+  - Validación del marco teórico, hipótesis, alcance y limitaciones de los modelos de valuación (de derivados, riesgo crediticio, riesgo de mercado, operacional, etc.)
+  - Verificación de supuestos con los datos de usuarios y documentación de los modelos
+  - Replicación de resultados de forma alterna para la detección de posibles discrepancias con los resultados oficiales
+  - Participación en la propuesta e implementación de modelos robustos con aplicacion de la metodología de machine learning y artificial inteligence
+
+### Enlace
+
+*Departamento de Analisis Algorítmico*
+
+INEGI
+
+11-2019 - 04-2020
+
+Dionicio Ibarias, PhD
+
+**Actividades**
+
+  - Generación de indicadores de seguridad pública e impartición de justicia
+  - Validación de bases de datos correspondientes a las encuestas nacionales de gobierno
+  - Revisión de presentaciones ejecutivas
+
+### Analista Estadístico Jr.
+
+N/A  
+
+*Nielsen Company*
+
+04-2016 - 04-2016
+
+**Actividades**
+
+  - Verificación de la producción de Venezuela: cierres semanales, price
+track y Web Express 
+  - Participación en el Proyecto Pharma en que desempeñé las actividades de revisión de cadenas de tiendas y verificación de la estructura de las bases de datos
+  - Colaboración en proyecto de Limpieza de SMS Colombia.
+  - Implementación de mejoras metodológicas para una revisión exhaustiva y eficiente de la información contenida en las bases de datos a mi cargo
+  
+### Asistente de profesor 
+
+*Departamento de Matemáticas*
+
+UAM-I
+
+01-2014 - 04-2016
+
+Joaquín Delgado Fernández, PhD
+
+**Actividades**:
+
+  - Coadyuvar en el desarrollo de las actividades académicas relacionadas
+con las tareas específicas de apoyo a la docencia 
+  - Impartir ayudantías en cursos de matemáticas y estadística en apoyo a las coordinaciones de Ciencias Básicas e Ingeniería, Ciencias Biológicas y de la Salud y Ciencias Sociales y Humanidades
+
+### Ayudante de investigador CONACyT
+
+*Departamento de Matemáticas*
+
+UAM-I
+
+01-2015 - 12-2015
+
+Ernesto Pérez Chavela, PhD
+
+**Actividaes**:
+
+  - Recopilación y procesamiento de información relacionada con las actividades y temas de investigación.
+  
